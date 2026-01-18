@@ -1,0 +1,7 @@
+streamlit
+streamlit-authenticator
+sqlite3
+backtrader
+pandas
+matplotlib
+yfinance
